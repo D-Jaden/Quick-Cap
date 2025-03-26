@@ -12,7 +12,7 @@ A Quick & Easy Caption Generator For Your Social Media Posts
   - With Relevancy To The Latest Trends, &
   - Cultural Relevance Which Includes Regional Slangs And Multi Language Support
  
-## Project Setup / Pre Requisites:
+## Project Setup / Pre Requisites :
 - Commands Will Vary For Each OS 
   - Install Bun JS `curl -fsSL https://bun.sh/install | bash`
   - INstalling TypeScript `sudo npm install -g typescript`
@@ -20,18 +20,18 @@ A Quick & Easy Caption Generator For Your Social Media Posts
   - For Svelte If You're Using VSC Install It Directly From The Extensions Menu
   - Don't Forget To Run `npm run dev`
   
- ## Important Commands: 
- - `bun i`
+ ## Important Commands : 
+ - `bun i` (Installs Dependencies In package.json)
  - `bun dev --port 3000` (Setting Up The Port For SvelteKit if)
    - Else Run `bun dev` (If Port Is Already In 3000)
         
- ## Tech Stack:
+ ## Tech Stack :
  - Svelte JS (Frontend)
  - Elysia JS (Backend)
  - Bun JS (JS Server)
  - PyTorch (ML Model Creation)
  - Fast API (ML Backend)
 
-## Future Work:
+## Future Work :
 - Integration into Instagram & Other Social Media Apps 
 
