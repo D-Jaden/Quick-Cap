@@ -1,7 +1,7 @@
 
 # Stop Stressing, Start Trending!
 
-# QuickCap:
+# Quick-Cap:
 A Quick & Easy Caption Generator For Your Social Media Posts
 
 ## Why QuickCap?
@@ -34,3 +34,4 @@ A Quick & Easy Caption Generator For Your Social Media Posts
 
 ## Future Work:
 - Integration into Instagram & Other Social Media Apps 
+
