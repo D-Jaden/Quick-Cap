@@ -20,7 +20,7 @@ A Quick & Easy Caption Generator For Your Social Media Posts
   - For Svelte If You're Using VSC Install It Directly From The Extensions Menu
   - Don't Forget To Run `npm run dev`
   
- ##Important Commands: 
+ ## Important Commands: 
  - `bun i`
  - `bun dev --port 3000` (Setting Up The Port For SvelteKit if)
    - Else Run `bun dev` (If Port Is Already In 3000)
