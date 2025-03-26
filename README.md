@@ -33,5 +33,5 @@ A Quick & Easy Caption Generator For Your Social Media Posts
  - Fast API (ML Backend)
 
 ## Future Work :
-- Integration into Instagram & Other Social Media Apps 
+- Integration Into Instagram & Other Social Media Apps Through A Chrome Extension Like Grammarly 
 
